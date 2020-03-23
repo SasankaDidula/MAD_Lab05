@@ -20,7 +20,7 @@
         android:layout_width="391dp"
         android:layout_height="52dp"
         android:onClick="onClick"
-        android:text="Button"
+        android:text="@string/start_btn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
